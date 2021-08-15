@@ -1,0 +1,18 @@
+.bg{
+    height: 290px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgPCoMhaMkNbEONJnIsmq26VDnDBP1OW5fQ&usqp=CAU");
+  }
+.bg1{
+text-align: center;
+padding: 0px;
+}
+
+.bg4{
+    height: 156px;
+}
+.bg2{
+    display: block;
+    margin-top: 250px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
